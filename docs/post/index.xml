@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Chinglin&#39;s blog</title>
-    <link>http://clwen.com:9001/post/</link>
+    <link>https://chinglinwen.github.io/hugotest/post/</link>
     <description>Recent content in Posts on Chinglin&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Mar 2019 22:40:12 +0800</lastBuildDate>
     
-	<atom:link href="http://clwen.com:9001/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chinglinwen.github.io/hugotest/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello</title>
-      <link>http://clwen.com:9001/post/hello/</link>
+      <link>https://chinglinwen.github.io/hugotest/post/hello/</link>
       <pubDate>Mon, 04 Mar 2019 22:40:12 +0800</pubDate>
       
-      <guid>http://clwen.com:9001/post/hello/</guid>
+      <guid>https://chinglinwen.github.io/hugotest/post/hello/</guid>
       <description>hello there</description>
     </item>
     

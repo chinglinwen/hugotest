@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://clwen.com:9001/post/hello/</loc>
+    <loc>https://chinglinwen.github.io/hugotest/post/hello/</loc>
     <lastmod>2019-03-04T22:40:12+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://clwen.com:9001/categories/</loc>
+    <loc>https://chinglinwen.github.io/hugotest/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://clwen.com:9001/</loc>
-    <lastmod>2019-03-04T22:40:12+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://clwen.com:9001/post/</loc>
+    <loc>https://chinglinwen.github.io/hugotest/</loc>
     <lastmod>2019-03-04T22:40:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://clwen.com:9001/tags/</loc>
+    <loc>https://chinglinwen.github.io/hugotest/post/</loc>
+    <lastmod>2019-03-04T22:40:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chinglinwen.github.io/hugotest/tags/</loc>
     <priority>0</priority>
   </url>
   
