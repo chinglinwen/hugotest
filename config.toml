@@ -1,0 +1,7 @@
+baseURL = "http://clwen.com:9001/"
+languageCode = "en-us"
+title = "Chinglin's blog"
+
+publishDir = "docs"
+#theme = "hugo-lithium-theme"
+theme = "ananke"
