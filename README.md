@@ -1,3 +1,3 @@
 # hugotest
 
-hugo testing
+hugo github page testing
