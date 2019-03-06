@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on Chinglin&#39;s blog</title>
+    <link>https://chinglinwen.github.io/hugotest/research/</link>
+    <description>Recent content in Researches on Chinglin&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Mar 2019 22:41:01 +0800</lastBuildDate>
+    
+	<atom:link href="https://chinglinwen.github.io/hugotest/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>demo</title>
+      <link>https://chinglinwen.github.io/hugotest/research/demo/</link>
+      <pubDate>Mon, 04 Mar 2019 22:41:01 +0800</pubDate>
+      
+      <guid>https://chinglinwen.github.io/hugotest/research/demo/</guid>
+      <description>Planetarium BY ADRIENNE RICH A woman in the shape of a monster
+a monster in the shape of a woman
+the skies are full of them
+a woman ‘in the snow among the Clocks and instruments
+or measuring the ground with poles’
+in her 98 years to discover
+8 comets</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,9 +1,8 @@
-#baseURL = "http://clwen.com:9001/"
-baseURL = "https://chinglinwen.github.io/hugotest"
+baseURL = "http://localhost:1313"
+#baseURL = "https://chinglinwen.github.io/hugotest"
 languageCode = "en-us"
 title = "Chinglin's blog"
 
 publishDir = "docs"
 #theme = "hugo-lithium-theme"
 theme = "ananke"
-sectionPagesMenu = "main"

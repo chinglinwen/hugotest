@@ -3,8 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://chinglinwen.github.io/hugotest/post/hello/</loc>
+    <loc>https://chinglinwen.github.io/hugotest/research/demo/</loc>
+    <lastmod>2019-03-04T22:41:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chinglinwen.github.io/hugotest/posts/sadie-and-maud/</loc>
     <lastmod>2019-03-04T22:40:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chinglinwen.github.io/hugotest/posts/the-heart-of-a-woman/</loc>
+    <lastmod>2019-03-04T22:40:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chinglinwen.github.io/hugotest/posts/hugo/</loc>
+    <lastmod>2019-03-04T22:40:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chinglinwen.github.io/hugotest/it/newit/</loc>
+    <lastmod>2019-03-04T22:40:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chinglinwen.github.io/hugotest/it/newit1/</loc>
+    <lastmod>2019-03-04T22:40:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://chinglinwen.github.io/hugotest/tags/a/</loc>
+    <lastmod>2019-03-04T22:40:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chinglinwen.github.io/hugotest/tags/b/</loc>
+    <lastmod>2019-03-04T22:40:12+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -14,18 +51,43 @@
   
   <url>
     <loc>https://chinglinwen.github.io/hugotest/</loc>
+    <lastmod>2019-03-04T22:41:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chinglinwen.github.io/hugotest/tags/demo/</loc>
+    <lastmod>2019-03-04T22:41:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chinglinwen.github.io/hugotest/it/</loc>
     <lastmod>2019-03-04T22:40:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://chinglinwen.github.io/hugotest/post/</loc>
+    <loc>https://chinglinwen.github.io/hugotest/posts/</loc>
     <lastmod>2019-03-04T22:40:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chinglinwen.github.io/hugotest/tags/research/</loc>
+    <lastmod>2019-03-04T22:41:01+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://chinglinwen.github.io/hugotest/research/</loc>
+    <lastmod>2019-03-04T22:41:01+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://chinglinwen.github.io/hugotest/tags/</loc>
+    <lastmod>2019-03-04T22:40:12+08:00</lastmod>
     <priority>0</priority>
   </url>
   

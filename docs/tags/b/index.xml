@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B on Chinglin&#39;s blog</title>
+    <link>https://chinglinwen.github.io/hugotest/tags/b/</link>
+    <description>Recent content in B on Chinglin&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Mar 2019 22:40:12 +0800</lastBuildDate>
+    
+	<atom:link href="https://chinglinwen.github.io/hugotest/tags/b/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>newit1</title>
+      <link>https://chinglinwen.github.io/hugotest/it/newit1/</link>
+      <pubDate>Mon, 04 Mar 2019 22:40:12 +0800</pubDate>
+      
+      <guid>https://chinglinwen.github.io/hugotest/it/newit1/</guid>
+      <description>hello newit1s</description>
+    </item>
+    
+  </channel>
+</rss>

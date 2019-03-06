@@ -6,9 +6,46 @@
     <description>Recent content in Tags on Chinglin&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 04 Mar 2019 22:40:12 +0800</lastBuildDate>
     
 	<atom:link href="https://chinglinwen.github.io/hugotest/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A</title>
+      <link>https://chinglinwen.github.io/hugotest/tags/a/</link>
+      <pubDate>Mon, 04 Mar 2019 22:40:12 +0800</pubDate>
+      
+      <guid>https://chinglinwen.github.io/hugotest/tags/a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>B</title>
+      <link>https://chinglinwen.github.io/hugotest/tags/b/</link>
+      <pubDate>Mon, 04 Mar 2019 22:40:12 +0800</pubDate>
+      
+      <guid>https://chinglinwen.github.io/hugotest/tags/b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://chinglinwen.github.io/hugotest/tags/demo/</link>
+      <pubDate>Mon, 04 Mar 2019 22:41:01 +0800</pubDate>
+      
+      <guid>https://chinglinwen.github.io/hugotest/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://chinglinwen.github.io/hugotest/tags/research/</link>
+      <pubDate>Mon, 04 Mar 2019 22:41:01 +0800</pubDate>
+      
+      <guid>https://chinglinwen.github.io/hugotest/tags/research/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

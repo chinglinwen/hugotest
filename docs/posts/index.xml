@@ -1,30 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chinglin&#39;s blog</title>
-    <link>https://chinglinwen.github.io/hugotest/</link>
-    <description>Recent content on Chinglin&#39;s blog</description>
+    <title>Posts on Chinglin&#39;s blog</title>
+    <link>https://chinglinwen.github.io/hugotest/posts/</link>
+    <description>Recent content in Posts on Chinglin&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Mar 2019 22:41:01 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2019 22:40:12 +0800</lastBuildDate>
     
-	<atom:link href="https://chinglinwen.github.io/hugotest/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://chinglinwen.github.io/hugotest/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>demo</title>
-      <link>https://chinglinwen.github.io/hugotest/research/demo/</link>
-      <pubDate>Mon, 04 Mar 2019 22:41:01 +0800</pubDate>
-      
-      <guid>https://chinglinwen.github.io/hugotest/research/demo/</guid>
-      <description>Planetarium BY ADRIENNE RICH A woman in the shape of a monster
-a monster in the shape of a woman
-the skies are full of them
-a woman ‘in the snow among the Clocks and instruments
-or measuring the ground with poles’
-in her 98 years to discover
-8 comets</description>
-    </item>
     
     <item>
       <title>Sadie and Maud</title>
@@ -56,24 +41,6 @@ The heart of a woman falls&amp;hellip;</description>
       <description>Hugo generates a section tree that matches your content. A Section is a collection of pages that gets defined based on the organization structure under the content/ directory.
 By default, all the first-level directories under content/ form their own sections (root sections).
 If a user needs to define a section foo at a deeper level, they need to create a directory named foo with an _index.md file (see Branch Bundles for more information).</description>
-    </item>
-    
-    <item>
-      <title>newit</title>
-      <link>https://chinglinwen.github.io/hugotest/it/newit/</link>
-      <pubDate>Mon, 04 Mar 2019 22:40:12 +0800</pubDate>
-      
-      <guid>https://chinglinwen.github.io/hugotest/it/newit/</guid>
-      <description>hello newit</description>
-    </item>
-    
-    <item>
-      <title>newit1</title>
-      <link>https://chinglinwen.github.io/hugotest/it/newit1/</link>
-      <pubDate>Mon, 04 Mar 2019 22:40:12 +0800</pubDate>
-      
-      <guid>https://chinglinwen.github.io/hugotest/it/newit1/</guid>
-      <description>hello newit1s</description>
     </item>
     
   </channel>
